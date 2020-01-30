@@ -100,6 +100,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="IntoThe.mp3">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="TossACoin.mp3">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

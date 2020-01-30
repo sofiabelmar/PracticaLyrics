@@ -95,6 +95,142 @@ namespace Reproductor
             {
                 txtLyrics.Text = "Broke down my lute and they kicked in my teeth";
             }
+
+            if (pbCancion.Value >= 38)
+            {
+                txtLyrics.Text = "While the devils horns minced our tender meat";
+            }
+
+            if (pbCancion.Value >= 43)
+            {
+                txtLyrics.Text = "And so cried the Witcher he can't be bleat ";
+            }
+
+            if (pbCancion.Value >= 49)
+            {
+                txtLyrics.Text = "Toss a coin to your Witcher o' Valley of Plenty";
+            }
+
+            if (pbCancion.Value >= 54)
+            {
+                txtLyrics.Text = "O' Valley of Plenty";
+            }
+
+            if (pbCancion.Value >= 57)
+            {
+                txtLyrics.Text = "Ooooh";
+            }
+
+            if (pbCancion.Value >= 59)
+            {
+                txtLyrics.Text = "Toss a coin to your Witcher o' Valley of Plenty";
+            }
+
+            if (pbCancion.Value >= 71)
+            {
+                txtLyrics.Text = "At the edge of the world fight the mighty horde  ";
+            }
+
+            if (pbCancion.Value >= 76)
+            {
+                txtLyrics.Text = "That bashes and breaks you and brings you the morn' ";
+            }
+
+
+            if (pbCancion.Value >= 85)
+            {
+                txtLyrics.Text = "He thrust every elf far back on the shelf";
+            }
+
+            if (pbCancion.Value >= 89)
+            {
+                txtLyrics.Text = "High up on the mountain from whence it came";
+            }
+
+            if (pbCancion.Value >= 98)
+            {
+                txtLyrics.Text = "He wipped out your pest got kicked in his chest";
+            }
+
+            if (pbCancion.Value >= 103)
+            {
+                txtLyrics.Text = "He's a friend of humanity so give him the rest";
+            }
+
+            if (pbCancion.Value >= 108)
+            {
+                txtLyrics.Text = "That's my epic tale a champion prevailed";
+            }
+
+            if (pbCancion.Value >= 113)
+            {
+                txtLyrics.Text = "Defeated the villain now pour him some ale";
+            }
+
+            if (pbCancion.Value >= 118)
+            {
+                txtLyrics.Text = "Toss a coin to your Witcher o' Valley of Plenty";
+            }
+
+            if (pbCancion.Value >= 123)
+            {
+                txtLyrics.Text = "O' Valey of Plenty";
+            }
+
+            if (pbCancion.Value >= 126)
+            {
+                txtLyrics.Text = "ohhh";
+            }
+
+            if (pbCancion.Value >= 127)
+            {
+                txtLyrics.Text = "Toss a coin to your Witcher a friend of humanity";
+            }
+
+            if (pbCancion.Value >= 137)
+            {
+                txtLyrics.Text = "Toss a coin to your Witcher O' Valley of Plenty";
+            }
+
+            if (pbCancion.Value >= 142)
+            {
+                txtLyrics.Text = "O' Valey of Plenty";
+            }
+
+            if (pbCancion.Value >= 144)
+            {
+                txtLyrics.Text = "Ohhh";
+            }
+
+            if (pbCancion.Value >= 146)
+            {
+                txtLyrics.Text = "Toss a coin to your Witcher a friend of humanity";
+            }
+
+            if (pbCancion.Value >= 155)
+            {
+                txtLyrics.Text = "Toss a coin to your Witcher O' Valley of Plenty";
+            }
+
+            if (pbCancion.Value >= 160)
+            {
+                txtLyrics.Text = "O' Valey of Plenty";
+            }
+
+            if (pbCancion.Value >= 162)
+            {
+                txtLyrics.Text = "Ohhh";
+            }
+
+            if (pbCancion.Value >= 164)
+            {
+                txtLyrics.Text = "Toss a coin to your Witcher  a friend of humanity";
+            }
+
+            if (pbCancion.Value >= 175)
+            {
+                txtLyrics.Text = "";
+            }
         }
 
 

@@ -20,7 +20,7 @@
                 Thumb.DragStarted="sldTiempo_DragStarted"
                 Thumb.DragCompleted="sldTiempo_DragCompleted" Grid.ColumnSpan="2"/>
         <ProgressBar x:Name="pbCancion" HorizontalAlignment="Left" Height="29" VerticalAlignment="Top" Width="534" Grid.ColumnSpan="2" Margin="144,0,0,0"/>
-        <TextBlock x:Name="txtLyrics" HorizontalAlignment="Left" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Margin="96,102,0,0" Grid.ColumnSpan="2" Height="191" Width="582" FontSize="40" TextAlignment="Center"/>
+        <TextBlock x:Name="txtLyrics" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="96,102,0,0" Grid.ColumnSpan="2" Height="191" Width="582" FontSize="40" TextAlignment="Center"/>
 
     </Grid>
 </Window>
